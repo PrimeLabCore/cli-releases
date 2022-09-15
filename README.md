@@ -1,7 +1,6 @@
 
 ### PrimeLab TPS-CLI
-  
-
+#### Current Release - ([Here](https://github.com/PrimeLabCore/cli-releases/releases/tag/4943941xca))
 
 To run the PrimeLab TPS Testing CLI tool you will need a `client-id` and `start-key`. This will provide you with a private key and certificate to manage this client. You can get these from the PrimeLab team ([Here](https://primelab.io/contact/))
 

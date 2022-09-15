@@ -1,8 +1,18 @@
 
 ### PrimeLab TPS-CLI
+To run the PrimeLab TPS Testing CLI tool you will need a `client-id` and `start-key`. This will provide you with a private key and certificate to manage this client. You can get these from the PrimeLab team ([Here](https://primelab.io/contact/))
+
+
 #### Current Release - ([Here](https://github.com/PrimeLabCore/cli-releases/releases/tag/4943941xca))
 
-To run the PrimeLab TPS Testing CLI tool you will need a `client-id` and `start-key`. This will provide you with a private key and certificate to manage this client. You can get these from the PrimeLab team ([Here](https://primelab.io/contact/))
+|OS|Arch|CLI Version|Download|
+|--|--|--|--|
+|Windows 10 and later|`64 bit`|`windows_amd64`| [Download](https://github.com/PrimeLabCore/cli-releases/releases/download/4943941xca/windows_amd64.zip) |
+|Windows 7 and later|`32 bit, i386`|`windows_386`| [Download](https://github.com/PrimeLabCore/cli-releases/releases/download/4943941xca/windows_386.zip) |
+|macOS Big Sur and later|`M1, M2`|`darwin_arm64`| [Download](https://github.com/PrimeLabCore/cli-releases/releases/download/4943941xca/darwin_arm64.zip) |
+|macOS Big Sur and later|`intel 64 bit`|`darwin_amd64`| [Download](https://github.com/PrimeLabCore/cli-releases/releases/download/4943941xca/darwin_amd64.zip) |
+|Linux - Debian Based distro|`64 bit`|`linux_amd64`| [Download](https://github.com/PrimeLabCore/cli-releases/releases/download/4943941xca/linux_amd64.zip) |
+|Linux - Debian Based distro|`32 bit`|`linux_386`| [Download](https://github.com/PrimeLabCore/cli-releases/releases/download/4943941xca/linux_386.zip) |
 
 
  ### Step 1:    Authenticate your CLI client with the network
